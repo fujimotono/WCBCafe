@@ -13,8 +13,8 @@
 # DEMO
 
 TOPページ
-![demo](https://gyazo.com/898e9829f70e2bb7c4463e3aeaedd8e8/raw)
-https://gyazo.com/898e9829f70e2bb7c4463e3aeaedd8e8
+![demo](https://gyazo.com/e982e2b21717dd7e28ae6a1b08531830/raw)
+https://gyazo.com/e982e2b21717dd7e28ae6a1b08531830
 TOPページの画像になります。
  
 NEWSページ
